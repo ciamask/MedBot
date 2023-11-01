@@ -1,2 +1,0 @@
-# wikibot
-# chatbot-disease-prediction
